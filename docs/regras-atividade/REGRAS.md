@@ -26,7 +26,7 @@ Cada alteração relevante deve gerar um commit. Não agrupar tudo em um único 
 
 Parte 4 – Tarefas obrigatórias
 
-1\) Editar turma/listas/alunos.md e adicionar seu nome em ordem alfabética.
+1\) Editar README.md colocando o seu nome completo.
 
 2\) Criar uma receita em receitas/salgados e receitas/doces.
 
