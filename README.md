@@ -31,6 +31,6 @@ Este repositório poderá conter diferentes tipos de materiais organizados em pa
 ## Colaboradores
 Adicione seu nome abaixo conforme instruções da atividade.
 
-- (preencher pela turma)
-Danilo Alves Rodrigues
-Caio Gabriel Da Silva Rocha
+- Jão Paulos
+- Danilo Alves Rodrigues
+- Caio Gabriel Da Silva Rocha
