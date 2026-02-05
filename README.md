@@ -32,8 +32,5 @@ Este repositório poderá conter diferentes tipos de materiais organizados em pa
 Adicione seu nome abaixo conforme instruções da atividade.
 
 - (preencher pela turma)
-<<<<<<< HEAD
-=======
 Danilo Alves Rodrigues
->>>>>>> f096d29c9975f69e543febdcee6434089dbb5bde
 Caio Gabriel Da Silva Rocha
