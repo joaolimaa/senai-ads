@@ -32,3 +32,4 @@ Este repositório poderá conter diferentes tipos de materiais organizados em pa
 Adicione seu nome abaixo conforme instruções da atividade.
 
 - Diego Vinicius Rodrigues
+- Danilo Alves Rodrigues
