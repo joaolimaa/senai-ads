@@ -1,4 +1,4 @@
-Receita Pudim
+Receita de Pudim
 
 Ingredientes
 - 1 lata de leite condensado
