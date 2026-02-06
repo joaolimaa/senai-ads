@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 =Brigadeiro de Micro-ondas=
 
 Ingredientes
@@ -9,4 +10,7 @@ Ingredientes
 1 colher (sopa) de manteiga
 
 =Modo de preparo=
-Misture tudo em um recipiente alto e leve ao micro-ondas por 6–8 minutos, mexendo a cada 2 minutos. Pronto!
+Misture tudo em um recipiente alto e leve ao micro-ondas por 6–8 minutos, mexendo a cada 2 minutos. Pronto.
+=======
+
+>>>>>>> 221a773de5aa8f86dfba288387191806028a7b47
