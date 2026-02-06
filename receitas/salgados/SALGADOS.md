@@ -1,44 +1,52 @@
-1 sachê (10g) Fermento biológico seco
-1 kg Frango cozido desfiado
-2 colheres de sopa Azeite de oliva ou óleo
-1 Cebola média picada
-2 dentes Alho picado
-1 colher de chá Colorau vermelho
-a gosto Sal
-1 copo (200 g) Requeijão
-700 g Farinha de trigo
-1 L Leite
-2 colheres cheias (aprox. 60g) Margarina
-2 tabletes Caldo de galinha esfarelado
-4 Batatas grandes
-a gosto Pimenta do reino
-300 g Farinha de rosca
-200 ml Leite integral (para empanar)
 
-MODO DE PREPARO
+=======
+Bora 😊 Aqui vai uma **receita simples de salgado assado**, bem fácil e econômica — ótima pra lanche ou vender.
 
-Cozinhe e rale as batatas com uma pitada de sal.
+## Salgado Assado Simples (massa básica)
 
-2
-Refogue alho e cebola no azeite ou óleo até dourar. Adicione colorau, pimenta e sal.
+### Ingredientes da massa
 
-3
-Acrescente o frango desfiado, misture bem e desligue o fogo. Junte o requeijão e reserve.
+* 2 xícaras de leite
+* 1/2 xícara de óleo
+* 1 colher (chá) de sal
+* 1 colher (sopa) de açúcar
+* 1 ovo
+* 10 g de fermento biológico seco (1 sachê)
+* Aproximadamente 1 kg de farinha de trigo
 
-4
-Escorra e amasse as batatas. Adicione margarina, leite, caldo de galinha, sal e pimenta. Misture até ferver.
+### Recheio (escolha um)
 
-5
-Acrescente a farinha aos poucos, mexendo até formar uma massa lisa. Cozinhe até soltar do fundo.
+* Presunto e queijo
+* Frango desfiado temperado
+* Salsicha refogada
+* Carne moída refogada
 
-6
-Transfira a massa para a mesa e sove até esfriar. Guarde em um saco plástico para não ressecar.
+### Para pincelar
 
-7
-Modele as coxinhas: abra a massa, recheie com o frango e feche em formato de coxinha.
+* 1 gema
+* 1 colher (sopa) de leite ou óleo
 
-8
-Passe no leite integral, depois na farinha de rosca.
+---
 
-9
-Frite em óleo quente até dourar. Não mexa até dourar.
+### Modo de preparo
+
+1. Em uma tigela, misture o leite morno, o óleo, o sal, o açúcar e o ovo.
+2. Acrescente o fermento e misture bem.
+3. Vá adicionando a farinha aos poucos, até formar uma massa macia que não grude nas mãos.
+4. Sove a massa por cerca de 10 minutos.
+5. Cubra e deixe descansar por 30 a 40 minutos, até dobrar de volume.
+6. Abra a massa, corte no formato desejado, recheie e feche os salgados.
+7. Coloque em uma forma untada, pincele a gema por cima.
+8. Asse em forno pré-aquecido a 180 °C por 25 a 30 minutos, até dourar.
+
+---
+
+Se quiser, posso te passar:
+
+* versão **frita**
+* massa **de liquidificador**
+* receita **sem fermento**
+* ou uma opção **bem barata pra vender**
+
+É só dizer 😉
+>>>>>>> 03297e06771912d52ebb84bb45f5eba857d1b8fc
