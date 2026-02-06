@@ -38,4 +38,5 @@ Adicione seu nome abaixo conforme instruções da atividade.
 * Danilo Alves Rodrigues
 * Caio Gabriel Da Silva Rocha
 * João Paulo de Lima Gonçalves
+* Jordanna de Jesus Ribeiro Porto
 
